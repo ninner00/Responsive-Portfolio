@@ -320,7 +320,7 @@ textarea {
 }
 
 @media all and (min-width: 61.25em) /* 980px */ {
-    .main-wrap, .container  { max-width: 90%; }
+    .main-wrap, .container  { max-width: 61.25em; }
 
     .image-container { 
         width: 48%;
@@ -346,7 +346,7 @@ textarea {
 
 
 @media all and (max-width: 61.25em) /* 980px */ {
-    .main-wrap, .container  { max-width: 90%; }
+    .main-wrap, .container  { max-width: 90%  }
 
     .image-container { 
         width: 48%;
